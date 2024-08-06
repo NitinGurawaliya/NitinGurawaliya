@@ -17,7 +17,7 @@ I'm constantly learning and experimenting with new technologies. Whether it's ma
 
 ## 📂 Featured Projects
 
-### 🌐 [Medium Clone](https://medium-zeta-virid.vercel.app/signup)
+### 🌐 [BlogPulse](https://medium-zeta-virid.vercel.app/signup)
 A fully functional blogging platform built with:
 - **Tech Stack:** TypeScript, Hono.js, React.js, PostgreSQL, Prisma ORM
 - **Key Features:** Responsive UI, seamless API integration, and efficient database management.
